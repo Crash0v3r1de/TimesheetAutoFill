@@ -1,0 +1,13 @@
+C:\Users\nafa9440\source\repos\TimesheetCompleter\TimesheetCompleter\bin\Debug\TimesheetCompleter.exe.config
+C:\Users\nafa9440\source\repos\TimesheetCompleter\TimesheetCompleter\bin\Debug\TimesheetCompleter.exe
+C:\Users\nafa9440\source\repos\TimesheetCompleter\TimesheetCompleter\bin\Debug\TimesheetCompleter.pdb
+C:\Users\nafa9440\source\repos\TimesheetCompleter\TimesheetCompleter\bin\Debug\itextsharp.dll
+C:\Users\nafa9440\source\repos\TimesheetCompleter\TimesheetCompleter\bin\Debug\itextsharp.xml
+C:\Users\nafa9440\source\repos\TimesheetCompleter\TimesheetCompleter\obj\Debug\TimesheetCompleter.csprojAssemblyReference.cache
+C:\Users\nafa9440\source\repos\TimesheetCompleter\TimesheetCompleter\obj\Debug\TimesheetCompleter.Form1.resources
+C:\Users\nafa9440\source\repos\TimesheetCompleter\TimesheetCompleter\obj\Debug\TimesheetCompleter.Properties.Resources.resources
+C:\Users\nafa9440\source\repos\TimesheetCompleter\TimesheetCompleter\obj\Debug\TimesheetCompleter.csproj.GenerateResource.cache
+C:\Users\nafa9440\source\repos\TimesheetCompleter\TimesheetCompleter\obj\Debug\TimesheetCompleter.csproj.CoreCompileInputs.cache
+C:\Users\nafa9440\source\repos\TimesheetCompleter\TimesheetCompleter\obj\Debug\TimesheetCompleter.csproj.CopyComplete
+C:\Users\nafa9440\source\repos\TimesheetCompleter\TimesheetCompleter\obj\Debug\TimesheetCompleter.exe
+C:\Users\nafa9440\source\repos\TimesheetCompleter\TimesheetCompleter\obj\Debug\TimesheetCompleter.pdb
