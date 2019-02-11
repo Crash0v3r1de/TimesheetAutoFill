@@ -1,0 +1,2 @@
+# TimesheetAutoFill
+I got tired of manually clicking and typing my timesheets so i just created a PDF manipulation program in c# to automate everything for me. Default's to 8 hours per day and you can select the ending day of the week for Friday to auto populate the dates. Also the day you signed it(auto populates).
