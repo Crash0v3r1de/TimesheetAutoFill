@@ -14,7 +14,9 @@ namespace TimesheetCompleter
     {
         public static void GenerateAndSavePDF(string filePath,string mon,string tues,string weds,string thurs,string fri,string weekDate,string todayDate)
         {
-            string newFile = @"C:\Users\nafa9440\Downloads\Timesheet Stuff\Completed\" + $"{DateTime.Today.ToString("MM-dd-yyyy")}.pdf";
+            // Assign where to save the file here
+            // You can also impliment something else and pass along the string file path
+            string newFile = @"C:\Users\SOMEONE_IMPORTANT\" + $"{DateTime.Today.ToString("MM-dd-yyyy")}.pdf";
 
             // open the reader
             PdfReader reader = new PdfReader(filePath);
@@ -34,7 +36,7 @@ namespace TimesheetCompleter
             cb.SetColorFill(BaseColor.DARK_GRAY);
             cb.SetFontAndSize(bf, 8);
 
-            // write the text in the pdf content
+            // Week ending date is this code block
             cb.BeginText();
             string text = Form1.monDate.ToString("MM/dd");
             // put the alignment and coordinates here
@@ -108,7 +110,7 @@ namespace TimesheetCompleter
             PdfImportedPage page = writer.GetImportedPage(reader, 1);
             cb.AddTemplate(page, 0, 0);
 
-            // close the streams and voilá the file should be changed :)
+            // close the stream and boom goes the dynamite
             document.Close();
             fs.Close();
             writer.Close();

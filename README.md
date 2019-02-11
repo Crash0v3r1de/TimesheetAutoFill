@@ -4,6 +4,7 @@ I got tired of manually clicking and typing my timesheets so i just created a PD
 
 
 ### This uses the iTextSharp library for PDF manipulation
+You can restore the package via NuGet ;)
 https://github.com/itext/itextsharp
 
 I'm not the greatest at git repo readme's by the way ¯\_(ツ)_/¯

@@ -112,6 +112,7 @@ namespace TimesheetCompleter
             fileDiag.Filter = "PDF Files | *.pdf";
             fileDiag.ShowDialog();
             PdfProcessor.GenerateAndSavePDF(fileDiag.FileName,textBox1.Text,textBox2.Text,textBox3.Text,textBox4.Text,textBox5.Text,endingWeekDay.Text,signedDay.Text);
+            MessageBox.Show("Your timesheet has been saved!");
         }
 
         private void endingWeekDay_ValueChanged(object sender, EventArgs e)
